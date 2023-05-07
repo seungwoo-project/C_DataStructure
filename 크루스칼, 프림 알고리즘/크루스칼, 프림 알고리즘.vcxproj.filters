@@ -14,4 +14,15 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. Kruskal 알고리즘을 이용한 최소 신장 트리 계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2. Prim 알고리즘을 이용한 최소 신장 트리 계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 최소신장트리를 이용한 발전소 연결.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

@@ -14,4 +14,21 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1. 쉘 정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2. 순차탐색(또는 개선된 순차탐색).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3. 이진탐색.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4. 색인 순차 탐색.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 정렬 응용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
