@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "해싱", "해싱\해싱.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "다익스트라, 플루워셜 알고리즘", "다익스트라, 플루워셜 알고리즘\다익스트라, 플루워셜 알고리즘.vcxproj", "{E4B707E4-A6A7-4FEF-A88B-6292BF5E58A0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그리디 알고리즘", "그리디 알고리즘\그리디 알고리즘.vcxproj", "{06083F73-F628-4F37-A5A2-1E3281074721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{E4B707E4-A6A7-4FEF-A88B-6292BF5E58A0}.Release|x64.Build.0 = Release|x64
 		{E4B707E4-A6A7-4FEF-A88B-6292BF5E58A0}.Release|x86.ActiveCfg = Release|Win32
 		{E4B707E4-A6A7-4FEF-A88B-6292BF5E58A0}.Release|x86.Build.0 = Release|Win32
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Debug|x64.ActiveCfg = Debug|x64
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Debug|x64.Build.0 = Debug|x64
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Debug|x86.ActiveCfg = Debug|Win32
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Debug|x86.Build.0 = Debug|Win32
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Release|x64.ActiveCfg = Release|x64
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Release|x64.Build.0 = Release|x64
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Release|x86.ActiveCfg = Release|Win32
+		{06083F73-F628-4F37-A5A2-1E3281074721}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
