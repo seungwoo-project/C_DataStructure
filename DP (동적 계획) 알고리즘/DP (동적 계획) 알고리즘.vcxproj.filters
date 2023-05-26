@@ -18,13 +18,13 @@
     <ClCompile Include="1. 잔돈 거스름돈 문제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="2. 부분 배낭 문제.c">
+    <ClCompile Include="2. 0-1 배낭 문제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="3. 집합 커버 문제.c">
+    <ClCompile Include="3. 연속 행렬 곱셈.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="4. 가장 짧은 대기시간.c">
+    <ClCompile Include="4. 0-1 배낭 문제2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

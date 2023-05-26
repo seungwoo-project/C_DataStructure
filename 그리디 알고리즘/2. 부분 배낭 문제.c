@@ -38,7 +38,7 @@ double fractionalKnapsack(int n, item list[], int w) { //n : °³¼ö, list : item¸®
     }
     return totalValue;
 }
-
+ 
 int main(void) {
     int w, n;
     item list[MAX_SIZE];

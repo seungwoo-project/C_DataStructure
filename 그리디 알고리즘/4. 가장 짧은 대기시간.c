@@ -29,7 +29,7 @@ int main() {
     {
         scanf("%d", &value[i]);
     }
-
+     
     qsort(value, n, sizeof(int), compare); // 오름차순 정렬
 
     // 이전의 더해진 값에서 자기자신 더하기 버블정렬느낌으로 비슷하게

@@ -46,7 +46,7 @@ int main(void) {
         for (int j = 0; j < MAX_N; j++)
             sets[i][j] = -1;
 
-    }
+    } 
     // 원소의 개수 n 집합의 개수 m
     scanf("%d %d", &n, &m);
     for (int i = 0; i < m; i++) { // 집합 개수만큼 반복

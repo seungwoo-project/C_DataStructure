@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ 
 int CoinChange(int money) {
     int num = 0;
     int coin[7] = { 10000, 5000, 1000, 500, 100, 50, 10 };
